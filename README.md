@@ -5,6 +5,6 @@ Hello everyone my name is Tarun.I have completed my secondary education from neu
 ### Induction Activity report
 (image.jpg)![IMG_20240721_21185687 1](https://github.com/user-attachments/assets/fcdef0fd-3b3d-4e57-aa6f-b977ad08c26c)
 | Sr no. | Guest name |Description |
-| ----------- | ----------- |
+
 | 1 | Pr. Dr. Sehijpal Singh|Pr. Dr. Sehijal singh welcomed us to the glorious college Guru nanak dev engeneering college and told us facilities and benifits of college
 | Paragraph | Text |
