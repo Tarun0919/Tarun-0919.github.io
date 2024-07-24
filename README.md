@@ -12,14 +12,14 @@ The beginning of my college journey starts with listening and reciting kirtan at
 |2.|NSET Dir S,Inderpal Singh|
 |3.|Er.Jiwandeep singh|
 |4.|SSP Rajeshwar singh|
-Hello! I'm Tarun, a passionate enthusiast of outdoor games, finding fulfillment in the dynamic activities they offer. Academically, I excelled with 80% in my 12th-grade examinations and achieved the 96th percentile in JEE Mains. I am currently pursuing computer science to delve deeper into my fascination with technology and innovation.
 
 During my introduction to GNDEC campus by Pr. Dr. Sehijpal Singh, I learned about its rich heritage and commitment to empowering rural students through technological education. Established in 1956 to honor Guru Nanak Dev Ji’s birthplace, GNDEC embodies a vision to uplift communities through advanced education.
 
 Er. Jiwandeep Singh's advice to seize opportunities resonates deeply with me. I believe in embracing challenges and continually seeking growth. SSP Rajeshwar Singh’s emphasis on ethical conduct and kindness reinforces my belief in the importance of integrity and compassion in every aspect of life.
 #### Day 2- 11-07-2024
 On the second day of induction program the guests were :-
-| Syntax | Description |
+| Sr no. | Resource Person |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text 
+| 1. | Dr.Arvind Dhingra |
+| 2.| Dr.Parminder Singh|
+|3.|Dr. H.S. Rai|
