@@ -50,7 +50,9 @@ The Speakers of the fourth Day of Induction Program were :-
 |4.|Mr.Pancham singh|
 
 Dr.Randhir Singh taught us how to make account on github and told us make activity report on induction so we are doing so.
+
 Dr.Pyare lal garg shared his valuable life expiernce with us.He told us varoius aspects of life.He is a  best doctor and a best person. He told us that how he used to teach his students and in the end when faculty members going to facilitae him he did'nt accept the materilistic things.The sound of claps of student was more than enough for him.
+
 Mr.Sony goyal taught us the new meaning of life and he also gave us mantra for success.
 What is Life?
 The word L in LIFE stands for - Learn
@@ -61,6 +63,7 @@ ALways Remember
 Give your 100%
 Do what you love, love what you do
 Should have Efficiency and Compatibility
+
 Mr.Pancham told us about the what body language means and what is the benifits of knowing it
 Communication Skills
 Topics:-
