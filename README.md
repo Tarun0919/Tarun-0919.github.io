@@ -72,3 +72,17 @@ Body Language
 Posture while talking with someone
 Difference between Fake smile and real smile.
 Facial expressions
+
+### Day 5- 16-07-2024
+ We have English Activities on the 5th day of induction.We interacted with our seniors and played fun games.There was the activity of spell the enhlish word and next we took part in debate and next was group disscussion and after that I went to hostel that was the 5th day of induction.
+### Day 6- 17-07-2024
+Today we were having classes:
+Class 1-
+The First class is of Mathematics in which we had done some integration and differntiation questions.
+
+Class 2-
+The second class is of UHV (Universal Human Values).
+### Day 7- 18-07-2024
+On the Day 7 of induction program the first class of UHV.We were taught by Professor Nisha. I liked the class very much very simple explanation was given to us with examples.
+
+The second class was taken by seniors about excel.They taught us really well.
