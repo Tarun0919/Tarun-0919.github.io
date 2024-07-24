@@ -24,6 +24,7 @@ On the second day of induction program the guests were :-
 | 1. | Dr.Arvind Dhingra |
 | 2.| Dr.Parminder Singh|
 |3.|Dr. H.S. Rai|
+
 Today's session provided comprehensive insights into the various societies and clubs at the college, such as SCIE, TSTE, E2S2 events, SAE, ISHRAI, ASME, ACM, PFA, CSI, Data Science Club, Parwaaz Club, Live wire Club, Causmic Club, English Club, Itian Club, and more. Each of these organizations aims to enrich students' experiences through events and activities tailored to their interests and fields of study.
 
 Dr. Arvind Dhingra elaborated on the different types of memberships available, from general members to office bearers, highlighting the opportunities for leadership and active participation within these groups.
@@ -47,6 +48,7 @@ The Speakers of the fourth Day of Induction Program were :-
 |2.| Dr. Pyare lal garg|
 |3.|Mr.sony goyal|
 |4.|Mr.Pancham singh|
+
 Dr.Randhir Singh taught us how to make account on github and told us make activity report on induction so we are doing so.
 Dr.Pyare lal garg shared his valuable life expiernce with us.He told us varoius aspects of life.He is a  best doctor and a best person. He told us that how he used to teach his students and in the end when faculty members going to facilitae him he did'nt accept the materilistic things.The sound of claps of student was more than enough for him.
 Mr.Sony goyal taught us the new meaning of life and he also gave us mantra for success.
