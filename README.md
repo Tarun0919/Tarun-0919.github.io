@@ -16,6 +16,7 @@ The beginning of my college journey starts with listening and reciting kirtan at
 During my introduction to GNDEC campus by Pr. Dr. Sehijpal Singh, I learned about its rich heritage and commitment to empowering rural students through technological education. Established in 1956 to honor Guru Nanak Dev Ji’s birthplace, GNDEC embodies a vision to uplift communities through advanced education.
 
 Er. Jiwandeep Singh's advice to seize opportunities resonates deeply with me. I believe in embracing challenges and continually seeking growth. SSP Rajeshwar Singh’s emphasis on ethical conduct and kindness reinforces my belief in the importance of integrity and compassion in every aspect of life.
+
 #### Day 2- 11-07-2024
 On the second day of induction program the guests were :-
 | Sr no. | Resource Person |
@@ -23,3 +24,46 @@ On the second day of induction program the guests were :-
 | 1. | Dr.Arvind Dhingra |
 | 2.| Dr.Parminder Singh|
 |3.|Dr. H.S. Rai|
+Today's session provided comprehensive insights into the various societies and clubs at the college, such as SCIE, TSTE, E2S2 events, SAE, ISHRAI, ASME, ACM, PFA, CSI, Data Science Club, Parwaaz Club, Live wire Club, Causmic Club, English Club, Itian Club, and more. Each of these organizations aims to enrich students' experiences through events and activities tailored to their interests and fields of study.
+
+Dr. Arvind Dhingra elaborated on the different types of memberships available, from general members to office bearers, highlighting the opportunities for leadership and active participation within these groups.
+
+Additionally, we gained insights into the college's examination and CGPA systems, understanding effective strategies for preparation and performance. Detailed scholarship schemes were outlined, underscoring the institution's commitment to supporting academic excellence.
+
+The success stories of college alumni showcased achievements at both national and international levels, inspiring us with their contributions and accomplishments in various fields.
+
+Key takeaways from today's speakers emphasized that life is a journey of continual change and growth. They shared the "3Ps for Success": Passion, Persistence, and Patience, emphasizing the importance of dedication, resilience, and steadfastness in achieving personal and professional goals.
+
+Overall, today's session provided a holistic view of opportunities and support available at the college, encouraging us to embrace challenges, pursue passions, and strive for excellence in all endeavors.
+#### Day 3- 12-07-2024
+On the third of induction program  we are having classes.We have peer interaction with seniors.they told us about curriculam and shared their expierences.
+The second class is of Mathematics in which we revise Differentiation formulas and solve sums of Differentiation. Overall the second day is full of learing and useful day.
+
+#### Day 4- 15-04-2024
+The Speakers of the fourth Day of Induction Program were :-
+| Sr.no.|Resource Person |
+| ----------- | ----------- |
+|1. | Dr. Randhir singh|
+|2.| Dr. Pyare lal garg|
+|3.|Mr.sony goyal|
+|4.|Mr.Pancham singh|
+Dr.Randhir Singh taught us how to make account on github and told us make activity report on induction so we are doing so.
+Dr.Pyare lal garg shared his valuable life expiernce with us.He told us varoius aspects of life.He is a  best doctor and a best person. He told us that how he used to teach his students and in the end when faculty members going to facilitae him he did'nt accept the materilistic things.The sound of claps of student was more than enough for him.
+Mr.Sony goyal taught us the new meaning of life and he also gave us mantra for success.
+What is Life?
+The word L in LIFE stands for - Learn
+The Seconds word I stands for- Inquire
+The third word F stands for- Future
+The fourth word E stands for- Explore
+ALways Remember
+Give your 100%
+Do what you love, love what you do
+Should have Efficiency and Compatibility
+Mr.Pancham told us about the what body language means and what is the benifits of knowing it
+Communication Skills
+Topics:-
+Willingness to hear things in the communication that are not being said.
+Body Language
+Posture while talking with someone
+Difference between Fake smile and real smile.
+Facial expressions
