@@ -7,7 +7,7 @@ Hello! My name is Tarun. I am passionate about outdoor games, finding joy and en
 aking the Excel course was a rewarding experience that significantly boosted my spreadsheet skills. I gained proficiency in advanced functions, data analysis, and visualization techniques, which are crucial for professional tasks. The course offered practical insights into organizing data effectively, creating complex formulas, and presenting information visually. I now feel confident in handling large datasets and generating insightful reports. Overall, it was a valuable investment in enhancing my productivity and analytical capabilities in both academic and professional settings.
 
 ![IMG-20240725-WA0003 1](https://github.com/user-attachments/assets/a5fd6449-52a2-4dc1-b0a2-a9844d143c9a)
-
+[title](https://click to view Induction reprt)
 ### Induction Activity report
 ![IMG_20240721_21185687 1](https://github.com/user-attachments/assets/8aa876b6-8956-46df-abfa-ea8ba6152c49)
 #### Day 1 - 10-07-2024
