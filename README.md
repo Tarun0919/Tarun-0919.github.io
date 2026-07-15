@@ -7,7 +7,7 @@ aking the Excel course was a rewarding experience that significantly boosted my 
 
 ![IMG-20240725-WA0003 1](https://github.com/user-attachments/assets/a5fd6449-52a2-4dc1-b0a2-a9844d143c9a)
 ### Induction Activity report
-![IMG_20240721_21185687 1](https://github.com/user-attachments/assets/8aa876b6-8956-46df-abfa-ea8ba6152c49)
+
 #### Day 1 - 10-07-2024
 The beginning of my college journey starts with listening and reciting kirtan at the Gurdwara Sahib of the College campus. It was a positive and great experience to receive the blessings before stating the new jouney. After that we were made to sit in the auditorium and then we listen to the speeches given by the guests of day 1. The guests of Day 1 induction program were:-
 |syntax|Description|
