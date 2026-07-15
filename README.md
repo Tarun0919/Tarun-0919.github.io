@@ -8,7 +8,7 @@ aking the Excel course was a rewarding experience that significantly boosted my 
 ![IMG-20240725-WA0003 1](https://github.com/user-attachments/assets/a5fd6449-52a2-4dc1-b0a2-a9844d143c9a)
 ### Induction Activity report
 
-#### Day 1 - 10-07-2024
+#### Day-1 - 10/07/2024
 The beginning of my college journey starts with listening and reciting kirtan at the Gurdwara Sahib of the College campus. It was a positive and great experience to receive the blessings before stating the new jouney. After that we were made to sit in the auditorium and then we listen to the speeches given by the guests of day 1. The guests of Day 1 induction program were:-
 |syntax|Description|
 | ----------- | ----------- |
@@ -22,7 +22,7 @@ During my introduction to GNDEC campus by Pr. Dr. Sehijpal Singh, I learned abou
 
 Er. Jiwandeep Singh's advice to seize opportunities resonates deeply with me. I believe in embracing challenges and continually seeking growth. SSP Rajeshwar Singh’s emphasis on ethical conduct and kindness reinforces my belief in the importance of integrity and compassion in every aspect of life.
 
-#### Day 2- 11-07-2024
+#### Day-2 - 11/07/2024
 On the second day of induction program the guests were :-
 | Sr no. | Resource Person |
 | ----------- | ----------- |
@@ -41,11 +41,11 @@ The success stories of college alumni showcased achievements at both national an
 Key takeaways from today's speakers emphasized that life is a journey of continual change and growth. They shared the "3Ps for Success": Passion, Persistence, and Patience, emphasizing the importance of dedication, resilience, and steadfastness in achieving personal and professional goals.
 
 Overall, today's session provided a holistic view of opportunities and support available at the college, encouraging us to embrace challenges, pursue passions, and strive for excellence in all endeavors.
-#### Day 3- 12-07-2024
+#### Day 3- 12/07/2024
 On the third of induction program  we are having classes.We have peer interaction with seniors.they told us about curriculam and shared their expierences.
 The second class is of Mathematics in which we revise Differentiation formulas and solve sums of Differentiation. Overall the second day is full of learing and useful day.
 
-#### Day 4- 15-04-2024
+#### Day 4- 15/04/2024
 The Speakers of the fourth Day of Induction Program were :-
 | Sr.no.|Resource Person |
 | ----------- | ----------- |
@@ -78,16 +78,50 @@ Posture while talking with someone
 Difference between Fake smile and real smile.
 Facial expressions
 
-### Day 5- 16-07-2024
+### Day 5- 16/07/2024
  We have English Activities on the 5th day of induction.We interacted with our seniors and played fun games.There was the activity of spell the enhlish word and next we took part in debate and next was group disscussion and after that I went to hostel that was the 5th day of induction.
-### Day 6- 17-07-2024
+### Day 6- 17/07/2024
 Today we were having classes:
 Class 1-
 The First class is of Mathematics in which we had done some integration and differntiation questions.
 
 Class 2-
 The second class is of UHV (Universal Human Values).
-### Day 7- 18-07-2024
-On the Day 7 of induction program the first class of UHV.We were taught by Professor Nisha. I liked the class very much very simple explanation was given to us with examples.
+### Day 7- 18/072024
+On The day 7 of Induction program the first class of UHV.We were taught by Professor Nisha. I liked the class very much very simple explanation was given to us with examples.
+
+### Day 8 - 19/07/2024
+
+Er.kanwardeep kalra mam	Er. kanwardeep kalra mam is again a best speaker and tells us about the importance of soft skills and basics trait to conquer the corporate world
+Jaswinder singh incharge-IAPT	jaswindersingh sir is incharge of IAPT he gets us into the world of physics and Mathematics he also showed great experiments .seriously, what a lovely teacher he was
+Department visit / mentor Intraction	There we came to know about labs and also we have our labs lectures and they tell us about exam patterns
+
+### WE have holidays on Saturday and Sunday (20/7/24) and ( 21/7/24)
+
+### Day 9 - 22/7/24	
+Dr. S.B. singh sir	sir tells us to take out our pages and to write down our names , our goals and many more he gave us some time to think about our dream life and what to do to get that dream life a reality
+Dr. pushpinder singh sir	sir gave us a huge knowledge and tells us to diffentiate and to know about our learning style and he says us to do deep study he also tells us about the legendary woman "SUDHA MURTHY"
+causmic club	Today we were able know about SDI we linked online through Google meet to a sir who tells us about startups and many more things then ma'am show us some glimpses of today's generation harming animals , pollution at its peak and we discussed some way to make our life little bit better
+
+### Day-10 - 23/7/24	
+Mathematics	Today at our Mathematics class we started differential equations and partice some mathematical problems
+Peer interaction about collage	At this class our peers tells is about our collage including hostels, canteens , swimming pool . Our peers tells us also to be updated on our official website gndec.ac.in to get updated regarding any events and examinations
+
+### Day-11 - 24/7/24	
+Mr. Gauravdeep singh sir	Sir was a great speaker and i personally feel the best speaker of the day he was full confident and shares his experiences he tells not to feel bad about you're failure . failure tells you to improve and polish yourself
+Er. lakhveer singh sir	The sir was from Civil department and gives us knowledge about CML NPET which helps us to get to know about online knowledge mode
+Causmic club	Causmic club is the one of the main clubs of our collage . our seniors helps us to know about events performed by Causmic club and everyone scan QR code to get enrolled in Causmic club
+
+### Day-12 - 25/7/24	
+UHV	Today we have our Mathematics test so we revised our Mathematics test topics
+Peer interaction technical	They tells us about github and differences between A.I and Generated AI and also we learnt about machine learning and then we studied about Excel came to know functions such as upper , lower , concatenate . And also studied about data validation . Mail merging
+Maths test	Then we have our Mathematics test
+
+### Day-13 - 26/7/24	
+Dr. kanwalpreet K bhatt	mam was medication counselor and Homeopathic practitioner today we came to know the importance of meditation 🧘‍♀️ and we all have done meditation approximately 20 minutes
+valedictory	Today we all have fun and culture comitte organises tha event all have fun and there was singing and dancing competition we enjoyed too much
+### TODAY WAS OUR LAST DAY OF INDUCTION PROGRAM AND I AM FULL MOTIVATED . I CAME TO LEARN MANY NEW THINGS FROM INDUCTION PROGRAM
+
+
 
 The second class was taken by seniors about excel.They taught us really well.
